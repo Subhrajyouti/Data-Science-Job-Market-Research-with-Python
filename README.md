@@ -281,22 +281,25 @@ The following Excel skills were utilized for analysis:
 - Then, I transformed each query by changing column types, removing unnecessary columns, cleaning text to eliminate specific words, and trimming excess whitespace.
     - 📊 data_jobs_all
 
-        ![2_Project_Analysis_Screenshot1.png](/0_Resources/Images/2_Project_Analysis_Screenshot1.png)
+        ![image](https://github.com/user-attachments/assets/736c95b8-efa7-4e5f-add4-11bfbe7c2d3a)
 
     - 🛠️ data_job_skills
 
-        ![2_Project_Analysis_Screenshot2.png](/0_Resources/Images/2_Project_Analysis_Screenshot2.png)
+       ![image](https://github.com/user-attachments/assets/713d5391-292d-4124-8964-a791d96dc1d0)
+
 
 #### 🔗 Load
 
 - Finally, I loaded both transformed queries into the workbook, setting the foundation for my subsequent analysis.
     - 📊 data_jobs_all
 
-        ![2_Project_Analysis_Screenshot3.png](/0_Resources/Images/2_Project_Analysis_Screenshot3.png)
+        ![image](https://github.com/user-attachments/assets/85fa6761-4570-4cf8-8aec-60ace43afb58)
+
 
     - 🛠️ data_job_skills
 
-        ![2_Project_Analysis_Screenshot4.png](/0_Resources/Images/2_Project_Analysis_Screenshot4.png)
+       ![image](https://github.com/user-attachments/assets/e82c0a42-fdc8-4815-92b3-72b5b75578d9)
+
 
 ### 📊 Analysis
 
@@ -305,7 +308,8 @@ The following Excel skills were utilized for analysis:
 - 📈 There is a positive correlation between the number of skills requested in job postings and the median salary, particularly in roles like Senior Data Engineer and Data Scientist.
 - 💼 Roles that require fewer skills, like Business Analyst, tend to offer lower salaries, suggesting that more specialized skill sets command higher market value.
 
-    ![2_Project_Analysis_Chart1.png](/0_Resources/Images/2_Project_Analysis_Chart1.png)
+    ![image](https://github.com/user-attachments/assets/14dbcfe9-4f26-426c-b3e8-d7573e5b3bda)
+
 
 #### 🤔 So What
 
@@ -341,7 +345,7 @@ The following Excel skills were utilized for analysis:
 - 💼 Job roles like Senior Data Engineer and Data Scientist command higher median salaries both in the US and internationally, showcasing the global demand for high-level data expertise.
 - 💰 The salary disparity between US and Non-US roles is particularly notable in high-tech jobs, which might be influenced by the concentration of tech industries in the US.
 
-    ![2_Project_Analysis_Chart2.png](/0_Resources/Images/2_Project_Analysis_Chart2.png)
+   ![image](https://github.com/user-attachments/assets/68525072-8eb9-4463-a2b1-ffe8893330b4)
 
 #### **🤔 So What**
 
@@ -360,13 +364,14 @@ The following Excel skills were utilized for analysis:
 
 - I created a relationship between my two tables using the `job_id` column.
 
-    ![2_Project_Analysis_Screenshot5.png](/0_Resources/Images/2_Project_Analysis_Screenshot5.png)
+   ![image](https://github.com/user-attachments/assets/ebbbfda9-3ce6-422d-9600-4bf2f217f285)
+
 
 #### 📃 Power Pivot Menu
 
 - The Power Pivot menu was used to refine my data model and makes it easy to create measures.
 
-    ![2_Project_Analysis_Screenshot6.png](/0_Resources/Images/2_Project_Analysis_Screenshot6.png)
+   ![image](https://github.com/user-attachments/assets/5c26aea9-ae78-4a1d-b90c-30ee9aba515f)
 
 ### 📊Analysis
 
@@ -375,7 +380,8 @@ The following Excel skills were utilized for analysis:
 - 💻 SQL and Python dominate as top skills in data-related jobs, reflecting their foundational role in data processing and analysis.
 - ☁️ Emerging technologies like AWS and Azure also show significant presence, underlining the industry's shift towards cloud services and big data technologies.
 
-    ![2_Project_Analysis_Chart3.png](/0_Resources/Images/2_Project_Analysis_Chart3.png)
+   ![image](https://github.com/user-attachments/assets/48401cf2-2eef-4c16-8624-9fceb5e3c588)
+
 
 #### 🤔So What
 
